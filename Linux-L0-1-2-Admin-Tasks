@@ -29,7 +29,7 @@ This covers Basic System Navigation, file management, user/process handling, net
 
 | Command                                 | Description                      |
 | --------------------------------------- | -------------------------------- |
-| `useradd username` / `adduser username` | Add new user                     |
+| `useradd username` /                    | Add new user                     |
 | `passwd username`                       | Set password                     |
 | `usermod -aG group username`            | Add user to group                |
 | `groupadd groupname`                    | Create group                     |

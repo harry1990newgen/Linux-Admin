@@ -35,9 +35,9 @@ Cloud (AWS / Azure / GCP)
 Infrastructure as Code
   ↓
 Monitoring & Logging
+```
 
-
-## Prerequisites :
+### Prerequisites :
 virtualbox: https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6a-172322-Win.exe
 Putty: https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.83-installer.msi
 RockyLinux: https://rockylinux.org/download

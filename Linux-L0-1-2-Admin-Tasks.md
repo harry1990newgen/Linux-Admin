@@ -1,3 +1,26 @@
+
+
+📑 Table of Contents
+Basic System Navigation
+File Permissions & Ownership
+User & Group Management
+Process & System Monitoring
+Disk, Filesystem & Storage
+Networking & Connectivity
+System Services & Startup
+Logs & Troubleshooting
+Package Management
+Compression & Archiving
+File Viewing & Editing
+Shell & Scripting Basics
+System Information
+Interview-Focused Practical Topics
+Quick Revision Checklist
+Linux Command Quick Reference
+Top Practical Tasks
+Linux Practical Tasks
+Linux Boot Process & Troubleshooting
+
 This covers Basic System Navigation, file management, user/process handling, networking, services, logs, disk management, permissions, troubleshooting, and basic shell scripting.
 
 🧩 1. Basic System Navigation :

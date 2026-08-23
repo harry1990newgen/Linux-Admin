@@ -1,27 +1,75 @@
 
 
-📑 Table of Contents
-Basic System Navigation
-File Permissions & Ownership
-User & Group Management
-Process & System Monitoring
-Disk, Filesystem & Storage
-Networking & Connectivity
-System Services & Startup
-Logs & Troubleshooting
-Package Management
-Compression & Archiving
-File Viewing & Editing
-Shell & Scripting Basics
-System Information
-Interview-Focused Practical Topics
-Quick Revision Checklist
-Linux Command Quick Reference
-Top Practical Tasks
-Linux Practical Tasks
-Linux Boot Process & Troubleshooting
+Author : Harry Singh
+Modified : 23Aug2026
 
 This covers Basic System Navigation, file management, user/process handling, networking, services, logs, disk management, permissions, troubleshooting, and basic shell scripting.
+
+## 📑 Table of Contents
+
+1. [Basic System Navigation](#-1-basic-system-navigation)
+2. [File Permissions & Ownership](#-2-file-permissions--ownership)
+3. [User & Group Management](#-3-user--group-management)
+4. [Process & System Monitoring](#-4-process--system-monitoring)
+5. [Disk, Filesystem & Storage](#-5-disk-filesystem--storage)
+6. [Networking & Connectivity](#-6-networking--connectivity)
+7. [System Services & Startup](#-7-system-services--startup)
+8. [Logs & Troubleshooting](#-8-logs--troubleshooting)
+9. [Package Management](#-9-package-management)
+10. [Compression & Archiving](#-10-compression--archiving)
+11. [File Viewing & Editing](#-11-file-viewing--editing)
+12. [Shell & Scripting Basics](#-12-shell--scripting-basics)
+13. [System Information](#-13-system-information)
+14. [Interview-Focused Practical Topics](#-14-interview-focused-practical-topics)
+15. [Quick Revision Checklist](#-quick-revision-checklist-for-l0l1-interviews)
+16. [Linux Command Quick Reference](#-linux-command-quick-reference-chart)
+17. [Top Practical Tasks](#-top-10-practical-tasks-for-l0l1-interviews)
+18. [Linux Practical Tasks](#-linux-practical-tasks-for-l0l1--support-engineer-interviews)
+19. [Linux Boot Process & Troubleshooting](#-linux-boot-related-issues--tasks)
+
+---
+
+# 🐧 Linux Commands, Practical Tasks & Interview Guide
+
+## 🧩 1. Basic System Navigation
+
+## 🧠 2. File Permissions & Ownership
+
+## 🧍 3. User & Group Management
+
+## ⚙️ 4. Process & System Monitoring
+
+## 💾 5. Disk, Filesystem & Storage
+
+## 🌐 6. Networking & Connectivity
+
+## 🔥 7. System Services & Startup
+
+## 📜 8. Logs & Troubleshooting
+
+## 🧰 9. Package Management
+
+## 🧱 10. Compression & Archiving
+
+## 🧩 11. File Viewing & Editing
+
+## 🕹️ 12. Shell & Scripting Basics
+
+## 🧭 13. System Information
+
+## 🧰 14. Interview-Focused Practical Topics
+
+## 🧾 15. Quick Revision Checklist for L0/L1 Interviews
+
+## 🧩 16. Linux Command Quick Reference Chart
+
+## 🎯 17. Top 10 Practical Tasks for L0/L1 Interviews
+
+## 🧩 18. Linux Practical Tasks for L0/L1 / Support Engineer Interviews
+
+## ⚙️ 19. Linux Boot Related Issues & Tasks
+
+
 
 🧩 1. Basic System Navigation :
 

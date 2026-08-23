@@ -38,19 +38,19 @@ Monitoring & Logging
 ```
 
 ### Prerequisites :
-virtualbox: [https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6a-172322-Win.exe](https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6a-172322-Win.exe)
+1. virtualbox: [https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6a-172322-Win.exe](https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6a-172322-Win.exe)
 
-Putty: [https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.83-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.83-installer.msi)
+2. Putty: [https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.83-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.83-installer.msi)
 
-RockyLinux: [https://rockylinux.org/download](https://rockylinux.org/download)
+3. RockyLinux: [https://rockylinux.org/download](https://rockylinux.org/download)
 
-MS Teams : [https://www.microsoft.com/en-in/microsoft-teams/download-app](https://www.microsoft.com/en-in/microsoft-teams/download-app)
+4. MS Teams : [https://www.microsoft.com/en-in/microsoft-teams/download-app](https://www.microsoft.com/en-in/microsoft-teams/download-app)
 
-🐧 How to Start with Linux?
+### 🐧 How to Start with Linux?
 
 Before jumping into advanced Linux administration or DevOps tools, you should first understand some basic concepts.
 
-📋 Linux Prerequisites
+### 📋 Linux Prerequisites
 
 The following are the recommended prerequisites for starting Linux:
 
@@ -65,7 +65,7 @@ Basic troubleshooting mindset
 
 Once you understand the basics, start practicing Linux commands on a Linux Virtual Machine (VM) or a cloud-based Linux server.
 
-🎯 What Should You Learn in Linux?
+### 🎯 What Should You Learn in Linux?
 
 Start with the following topics:
 
@@ -98,7 +98,7 @@ When should we use it?
 ↓  
 How can we troubleshoot with it?
 
-Example
+### Example
 
 Instead of only memorizing:
 
